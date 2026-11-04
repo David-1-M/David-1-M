@@ -2,11 +2,11 @@
 
 # Hi, I'm David Mdluli 👋
 
-### Aspiring Software Engineer | C# & .NET | Python | AI Enthusiast
+### Software Engineering | Backend Development | Applied AI
 
 Final-year **BSc Information Technology** student at **North-West University**, South Africa.
 
-I enjoy building practical software, exploring AI and data analytics, and learning how systems work. I have also helped fellow students develop their programming skills as a **Python and C++ Student Assistant**.
+I build secure backend systems and practical AI applications. My recent work includes a .NET project-management API with authentication and passing CI checks, and a local document-based RAG assistant using FastAPI, ChromaDB and Ollama. I also support students as a **Python and C++ Student Assistant**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://david-1-m.github.io/My-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mdluli-326302300/)
@@ -27,18 +27,20 @@ I enjoy building practical software, exploring AI and data analytics, and learni
 
 **Languages:** C# · Python · Java · C++ · SQL
 
-**Frameworks & platforms:** .NET · ASP.NET Web Forms · .NET MAUI
+**Frameworks & platforms:** ASP.NET Core · .NET · FastAPI · Streamlit · .NET MAUI · ASP.NET Web Forms
 
-**Databases:** SQL Server · SQLite
+**Databases:** SQL Server · SQLite · ChromaDB
 
-**Data & AI:** Pandas · NumPy · Matplotlib · scikit-learn
+**Data & AI:** RAG · Sentence Transformers · Ollama · Pandas · NumPy · Matplotlib · scikit-learn
 
-**Tools:** Git · GitHub · Visual Studio · VS Code
+**Tools & testing:** Git · GitHub Actions · xUnit · pytest · JUnit 5 · Visual Studio · VS Code
 
 ## 🚀 Featured Projects
 
 | Project | Overview | Technologies |
 | --- | --- | --- |
+| [DevTrack API](https://github.com/David-1-M/DevTrack) | Secure REST API with JWT authentication, roles, ownership enforcement, SQL Server, 7 passing xUnit tests and GitHub Actions CI. Local portfolio backend. | C#, ASP.NET Core, EF Core, JWT, xUnit |
+| [AI Knowledge Assistant](https://github.com/David-1-M/AI-Knowledge-Assistant) | Local PDF-based RAG assistant featuring text extraction, embeddings, ChromaDB search, Ollama answers, cited source pages, Streamlit UI and CI. | Python, FastAPI, Streamlit, ChromaDB, Ollama |
 | [Student Task Manager](https://github.com/David-1-M/student-task-manager) | Cross-platform application for managing student tasks. | C#, .NET MAUI, SQLite |
 | [Student Performance Analytics](https://github.com/David-1-M/StudentPerformanceAnalytics) | Exploring student performance patterns with data analysis and machine learning. | Python, Pandas, scikit-learn |
 | [Hope Through Hands](https://github.com/David-1-M/hope-through-hands) | Charity management system for donors, beneficiaries and administrators. | ASP.NET Web Forms, SQL Server |
