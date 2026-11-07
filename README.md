@@ -57,7 +57,6 @@ I build secure backend systems and practical AI applications. My recent work inc
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-1-M&layout=compact&hide_border=true)
 
 </div>
-
 ## 🤝 Let's Connect
 
 I'm keen to learn, contribute to real-world software projects and collaborate with other developers.
